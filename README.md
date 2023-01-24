@@ -5,7 +5,7 @@
 Projeto criado no evento da Rocketseat NLW-Setup
 
 ## :books: Funcionalidades
-* 
+*
 
 ## :wrench: Tecnologias utilizadas
 * Vite
@@ -37,6 +37,15 @@ Criando o config do tailwindcss, postcss
 ```
 npx tailwindcss init -p
 ```
-Criando o arquivo global styles
-
-Configurando o tailwindcss.config.cjs
+Criando o arquivo global styles<br>
+<img align="center" title="Printscreen" src="https://github.com/ur4sh1/WEB-Setup---NLW-Rocketseat/blob/main/public/global.styles.png" /><br>
+Configurando o tailwindcss.config.cjs<br>
+<img align="center" title="Printscreen" src="https://github.com/ur4sh1/WEB-Setup---NLW-Rocketseat/blob/main/public/tailwindcss.config.cjs.png" /><br>
+Instalando a bíblioteca phosphor-react
+```
+yarn add phosphor-react
+```
+Instalando a bíblioteca dayjs
+```
+yarn add dayjs
+```
