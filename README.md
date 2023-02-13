@@ -49,3 +49,11 @@ Instalando a bíblioteca dayjs
 ```
 yarn add dayjs
 ```
+Instalando a bíblioteca radix ui dialog
+```
+npm install @radix-ui/react-dialog
+```
+Instalando a bíblioteca radix ui popover
+```
+@radix-ui/react-popover
+```
