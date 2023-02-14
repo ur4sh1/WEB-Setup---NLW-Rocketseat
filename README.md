@@ -55,5 +55,9 @@ npm install @radix-ui/react-dialog
 ```
 Instalando a bíblioteca radix ui popover
 ```
-@radix-ui/react-popover
+yarn add @radix-ui/react-popover
+```
+Instalando a bíblioteca clsx
+```
+yarn add clsx
 ```
