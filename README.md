@@ -61,3 +61,7 @@ Instalando a bíblioteca clsx
 ```
 yarn add clsx
 ```
+Instalando a bíblioteca checkbox do radix ui
+```
+npm install @radix-ui/react-checkbox
+```
