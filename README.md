@@ -65,3 +65,7 @@ Instalando a bíblioteca checkbox do radix ui
 ```
 npm install @radix-ui/react-checkbox
 ```
+Instalando a bíblioteca axios para requisições http
+```
+yarn add axios
+```
