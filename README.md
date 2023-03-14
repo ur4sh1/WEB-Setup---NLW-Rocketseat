@@ -1,11 +1,16 @@
 #Exercício de React
 <h1 align="center">:file_cabinet: Web - Setup</h1>
 
+<img align="center" title="Printscreen" src="https://github.com/ur4sh1/WEB-Setup---NLW-Rocketseat/blob/main/public/final_front.png" /><br>
+<img align="center" title="Printscreen" src="https://github.com/ur4sh1/WEB-Setup---NLW-Rocketseat/blob/main/public/final_interface_create.png" /><br>
+
 ## :memo: Descrição
 Projeto criado no evento da Rocketseat NLW-Setup
 
 ## :books: Funcionalidades
-*
+* Cadastra uma ou mais atividades no dia
+* Registra uma ou mais atividades finalizadas
+* Exibe uma tela com os dias, exibindo tarefas finalizadas ou não.
 
 ## :wrench: Tecnologias utilizadas
 * Vite
